@@ -27,8 +27,10 @@ body {
 }
 
 .content-section h1{
-    font-size: 2em;
+    font-size: 3em;
     font-weight: 700;
+    margin: 0;
+    margin-bottom: 0.5em;
 }
 
 .content-section h2{
@@ -36,4 +38,15 @@ body {
     font-weight: 400;
     margin-left: 2rem;
     margin-right: 2rem;
+    margin-top: 0;
+}
+
+#youtube-box{
+    float: right;
+    padding: 1rem;
+    background-color: #dddddd;
+}
+
+.youtube.frame{
+
 }
