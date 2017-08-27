@@ -1,30 +1,40 @@
 body {
-    width: 80%;
-    margin: auto;
     font-family: 'Montserrat', sans-serif;
+    background-color: #898989;
 }
 
 #title-head {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 11vw; 
     font-weight: 700;
     text-align: center;
+    color: #ffffff;
+    padding: 1rem;
 }
 
 #main-content{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
     font-size: 0.8em;
 }
 
 .content-section{
     background-color: #eeeeee;
-    padding: 1em;
     margin-bottom: 1em;
-    min-width: 100%;
-        
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
 }
 
 .story {
-    display: inline-block;
-    min-width: 100%;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
     margin-bottom: 1em;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -76,7 +86,6 @@ body {
     height: 100%;
     height: auto;
     display: inline-block;
-    
 }
 
 .youtube-caption {
