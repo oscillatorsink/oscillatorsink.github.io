@@ -49,6 +49,11 @@ body {
     margin-right: 2rem;
 }
 
+.content-section li{
+    margin-left: 2.5rem;
+    margin-right: 2rem;
+}
+
 .content-section p a{
     font-weight: 700;
     text-decoration: none;
@@ -76,8 +81,6 @@ body {
     margin-left: 1rem;
     margin-right: 1rem;
     margin-bottom: 0.5rem;
-
-    
     display: inline-block;
 }
 
